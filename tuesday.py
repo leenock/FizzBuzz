@@ -14,7 +14,7 @@ if number_of_cookies >= 0:
     cups_of_sugar = 1.5
     cups_of_butter = 1
     cups_of_flour = 2.75
-    produced_cookies = 48
+    produced_cookies = 48 
 
     cups_sugar_needed = (cups_of_sugar * number_of_cookies)/produced_cookies
     cups_of_butter_needed = (cups_of_butter * number_of_cookies) /produced_cookies
